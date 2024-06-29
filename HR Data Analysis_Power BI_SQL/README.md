@@ -1,15 +1,11 @@
-DATA ANALYTICS PORTFOLIO
+**HR Analytics Dashboard: Analyzing Employee Churn**
 
-Welcome to my Data Analyst Portfolio!
+**Goal**
+The HR Analytics Dashboard project aims to identify the factors contributing to employee churn and provide actionable insights to reduce employee turnover rate, improve employee retention, and enhance overall organizational performance.
 
-I am a data analyst with experience in using various tools and technologies to collect, organize, and analyze data to inform business decisions. I am proficient in Python, SQL, Excel and Power BI, and have a solid understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, statistics, and critical thinking.
+**Background Information**
+The dataset includes information about employees in the company. It contains various attributes such as the employee's age, gender, job role, education, department, and marital status. Other information in the dataset includes the employee's daily rate, monthly income, training history, work experience, job satisfaction, and performance ratings. Additionally, the dataset includes a column for attrition, which indicates whether an employee has left the company or is still employed.
 
-In this portfolio, I have included a variety of projects that showcase my data analytics skills. You will find links of the dashboards and reports I have created using various tools such as Power BI. These projects demonstrate my ability to analyze and present data in a clear and visually appealing way, making it easy for decision makers to understand the insights and take action.
+**Setup**
+The first step in the project involved data cleaning to ensure accurate analysis. This included removing any duplicate entries to avoid potential biases in the dataset. To facilitate better visualization of the data, I created age groups and ranges for monthly income. Furthermore, I verified that there was no missing data and that each field had the correct data type using Power BI's query tool.
 
-I have also included my work in programming languages such as Python and SQL. These projects showcase my ability to extract valuable insights from large and complex data sets, and to combine data from multiple sources to create a comprehensive view of the data.
-
-In addition to my technical skills, I also pride myself on my critical thinking and problem-solving abilities. I am able to approach data analysis with a strategic mindset, and to identify key issues and opportunities in the data.
-
-I am confident that my data analytics skills and experience make me an ideal candidate for any data analyst role. I hope you find my portfolio to be informative and engaging, and I welcome any opportunity to discuss my qualifications further with you.
-
-Thank you for your time, I look forward to hearing from you soon.
