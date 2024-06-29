@@ -14,8 +14,8 @@ I am confident that my data analytics skills and experience make me an ideal can
     - [Marathon Exploratory Data Analysis (EDA)](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#marathon-exploratory-data-analysis-eda)
     - [Cricket Players Statistics](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#cricket-players-statistics)  
   - SQL
-    - [Covid 19 Data Exploration](https://github.com/aaronezra777/PortfolioProject/blob/main/SQL/SQL_Covid_data.sql)
-    - [Nashville Housing Data Cleaning](https://github.com/aaronezra777/PortfolioProject/blob/main/SQL/SQL_Covid_data.sql)
+    - [Covid 19 Data Exploration](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#covid-19-data-exploration)
+    - [Nashville Housing Data Cleaning](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#nashville-housing-data-cleaning)
   - Power BI
    
 - [Contact](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#contacts)
