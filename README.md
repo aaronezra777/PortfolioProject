@@ -11,7 +11,7 @@ I am confident that my data analytics skills and experience make me an ideal can
 - [About](https://github.com/aaronezra777/PortfolioProject/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/aaronezra777/PortfolioProject/blob/main/README.md#portfolio-projects)
   - Python
-    - [Marathon Exploratory Data Analysis (EDA)](https://github.com/aaronezra777/PortfolioProject/edit/main/README.md#marathon-exploratory-data-analysis-eda)
+    - [Marathon Exploratory Data Analysis (EDA)](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#marathon-exploratory-data-analysis-eda)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - SQL
     - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
