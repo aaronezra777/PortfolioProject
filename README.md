@@ -11,7 +11,7 @@ I am confident that my data analytics skills and experience make me an ideal can
 - [About](https://github.com/aaronezra777/PortfolioProject/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/aaronezra777/PortfolioProject/blob/main/README.md#portfolio-projects)
   - Python
-    - [Marathon Exploratory Data Analysis (EDA)](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Marathon Exploratory Data Analysis (EDA)](https://github.com/aaronezra777/PortfolioProject/edit/main/README.md#marathon-exploratory-data-analysis-eda)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - SQL
     - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
@@ -30,7 +30,7 @@ I am confident that my data analytics skills and experience make me an ideal can
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
+### Marathon Exploratory Data Analysis (EDA)
 **Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
 **Goal:** To determine what factors contribute the most to a movie's success.
