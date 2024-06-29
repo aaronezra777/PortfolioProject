@@ -1,14 +1,11 @@
-# Tianna Parris - Data Analyst Portfolio
+# Aaron Ezra - Data Analyst Portfolio
 ## About
-Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
+I am a data analyst with experience in using various tools and technologies to collect, organize, and analyze data to inform business decisions. I am proficient in Python, SQL, Excel and Power BI. I have a solid understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, statistics, and critical thinking.
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+In this portfolio, I have included a variety of projects that showcase my data analytics skills. You will find links of the dashboards and reports I have created using various tools such as Power BI. These projects demonstrate my ability to extract valuable insights from large and complex data sets, combine data from multiple sources to create a comprehensive view of the data analyze and present data in a clear and visually appealing way, making it easy for decision makers to understand the insights and take action.
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+I am confident that my data analytics skills and experience make me an ideal candidate for any data analyst role. I hope you find my portfolio to be informative and engaging, and I welcome any opportunity to discuss my qualifications further with you.
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
-
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
 - [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
