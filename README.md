@@ -14,19 +14,12 @@ I am confident that my data analytics skills and experience make me an ideal can
     - [Marathon Exploratory Data Analysis (EDA)](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#marathon-exploratory-data-analysis-eda)
     - [Cricket Players Statistics](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#cricket-players-statistics)  
   - SQL
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
-  - R
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
-  - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
+    - [Covid 19 Data Exploration](https://github.com/aaronezra777/PortfolioProject/blob/main/SQL/SQL_Covid_data.sql)
+    - [Nashville Housing Data Cleaning](https://github.com/aaronezra777/PortfolioProject/blob/main/SQL/SQL_Covid_data.sql)
   - Power BI
-  
+   
+- [Contact](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#contacts)
 
-
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
@@ -70,12 +63,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** SQL Server
 
-## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
+- LinkedIn: [@aaronezra](https://www.linkedin.com/in/aaron-ezra-richard-932ab2135/)
+- Email: aaron_ezra7@hotmail.com
