@@ -12,7 +12,7 @@ I am confident that my data analytics skills and experience make me an ideal can
 - [Portfolio Projects](https://github.com/aaronezra777/PortfolioProject/blob/main/README.md#portfolio-projects)
   - Python
     - [Marathon Exploratory Data Analysis (EDA)](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#marathon-exploratory-data-analysis-eda)
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+    - [Cricket Players Statistics](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - SQL
     - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
     - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
@@ -31,32 +31,23 @@ I am confident that my data analytics skills and experience make me an ideal can
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Marathon Exploratory Data Analysis (EDA)
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+**Code:** [Python_Programming/python_marathondata.ipynb](https://github.com/aaronezra777/PortfolioProject/blob/main/Python_Programming/python_marathondata.ipynb)
 
-**Goal:** To determine what factors contribute the most to a movie's success.
+**Description:** The dataset contains a list of marathon athletes details. This project includes the following steps: data loading, data cleaning and exploratory data analysis (EDA).
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+**Skills:** data cleaning, data analysis, cata cleaning, data visualization.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Technology:** Python, Pandas, Seaborn, Matplotlib.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+### Cricket Players Statistics
 
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+**Code:** [Python_Programming/Python_cricketdata.ipynb](https://github.com/aaronezra777/PortfolioProject/blob/main/Python_Programming/Python_cricketdata.ipynb)
 
-### Tech Store Sales Analysis
-
-**Goal:** To examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
-
-**Code:** [`Tech Store Sales Analysis.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Tech%20Store%20Sales%20Analysis.ipynb)
-
-**Description:** The dataset contains a list of sales records.  The records include the products for sale and order information(order id, order date, price, quantity ordered and purchase address). The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing sales data and hypothesis testing.
+**Description:** This dataset contains a list of USA cricket players and their statistics.  The records include number of matches played, balls faced, strike rate, etc. The project includes the following steps: data loading, data cleaning and EDA (exploratory data analysis), analyzing the statistics of the players.
 
 **Skills:** data cleaning, data analysis, hypothesis testing, data visualization.
 
-**Technology:** Python, Pandas, Matplotlib.
-
-**Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
-
+**Technology:** Python, Pandas
 
 
 ### Nashville Housing Data Cleaning
