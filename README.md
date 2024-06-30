@@ -18,7 +18,7 @@ I am confident that my data analytics skills and experience make me an ideal can
     - [Nashville Housing Data Cleaning](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#nashville-housing-data-cleaning)
   - Power BI
     - [HR Analytics Dashboard](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#covid-19-data-exploration)
-    - [Pizza Sales Report]
+    - [Pizza Sales Report](https://github.com/aaronezra777/PortfolioProject?tab=readme-ov-file#pizza-sales-report)
    
 - [Contact](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#contacts)
 
