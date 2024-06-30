@@ -18,5 +18,8 @@ With the processed data, I created a HR analytics dashboard that presents key in
 
 ![image](https://github.com/aaronezra777/PortfolioProject/assets/167322419/cb0cfeb5-3908-4b64-bbec-9d6bafa37904)
 
+**Conclusion**
+The HR analytics dashboard created using Power BI is a powerful tool for making informed decisions about employee attrition. It demonstrates my skills in data analysis and visualization. The skills I have acquired in this project can be applied to various industries and domains, helping organizations make data-driven decisions and achieve their goals.
+
 
 
