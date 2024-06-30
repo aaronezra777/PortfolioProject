@@ -17,6 +17,7 @@ I am confident that my data analytics skills and experience make me an ideal can
     - [Covid 19 Data Exploration](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#covid-19-data-exploration)
     - [Nashville Housing Data Cleaning](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#nashville-housing-data-cleaning)
   - Power BI
+    - [HR Analytics Dashboard](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#covid-19-data-exploration)
    
 - [Contact](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#contacts)
 
@@ -62,6 +63,15 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 **Technology:** SQL Server
+
+### HR Analytics Dashboard: Analyzing Employee Churn
+**Code:** [HR Analytics Dashboard](https://github.com/aaronezra777/PortfolioProject/tree/main/HR%20Data%20Analysis_Power%20BI_SQL)
+
+**Description:** The dataset includes information about employees in the company. It contains various attributes such as the employee's age, gender, job role, education, department, and marital status. Other information in the dataset includes the employee's daily rate, monthly income, training history, work experience, job satisfaction, and performance ratings. Additionally, the dataset includes a column for attrition, which indicates whether an employee has left the company or is still employed.
+
+**Skills:** Data Modelling, Power Query, Power BI
+
+**Technology:** Power BI
 
 
 ## Contacts
