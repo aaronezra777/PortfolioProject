@@ -18,6 +18,7 @@ I am confident that my data analytics skills and experience make me an ideal can
     - [Nashville Housing Data Cleaning](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#nashville-housing-data-cleaning)
   - Power BI
     - [HR Analytics Dashboard](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#covid-19-data-exploration)
+    - [Pizza Sales Report]
    
 - [Contact](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#contacts)
 
@@ -69,10 +70,18 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** The dataset includes information about employees in the company. It contains various attributes such as the employee's age, gender, job role, education, department, and marital status. Other information in the dataset includes the employee's daily rate, monthly income, training history, work experience, job satisfaction, and performance ratings. Additionally, the dataset includes a column for attrition, which indicates whether an employee has left the company or is still employed.
 
-**Skills:** Data Modelling, Data cleaning usng Power Query, Power BI
+**Skills:** Data Modelling, Data cleaning usng Power Query, Data Visualization
 
 **Technology:** Power BI
 
+### Pizza Sales Report
+**Code:** [Pizza Sales Report](https://github.com/aaronezra777/PortfolioProject/tree/main/Pizza%20Sales%20Report_Power%20BI_SQL)
+
+**Description:** The dataset includes information about pizza sales for a pizzeria. The Pizza Sales Report and Dashboard is aimed at creating a comprehensive solution for a pizzeria to track and analyze its sales, customer behavior and performance. This project involves the use of SQL for data management, data analysis and draw valuable insights and Power BI for creating interactive dashboards that provide valuable insights to support decision making for business growth.
+
+**Skills:** Data Modelling, Data cleaning using Power Query, Data Visualization
+
+**Technology:** Power BI
 
 ## Contacts
 - LinkedIn: [@aaronezra](https://www.linkedin.com/in/aaron-ezra-richard-932ab2135/)
