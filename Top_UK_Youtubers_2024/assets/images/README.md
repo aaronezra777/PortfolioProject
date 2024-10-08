@@ -13,7 +13,7 @@ To create a dashboard that provides insights into the top UK YouTubers in 2024 t
 This will help the marketing team make informed decisions about which YouTubers to collaborate with for their marketing campaigns.
 
 **Tools**
-![image](https://github.com/aaronezra777/PortfolioProject/assets/167322419/f8c9c956-f23a-4b66-9382-d735f8c93524)
+![image](https://github.com/aaronezra777/PortfolioProject/blob/main/Top_UK_Youtubers_2024/assets/images/tools.png)
 What data is needed to achieve our objective?
 We need data on the top UK YouTubers in 2024 that includes their
 
