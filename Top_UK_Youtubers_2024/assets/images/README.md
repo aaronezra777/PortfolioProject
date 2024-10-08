@@ -29,6 +29,8 @@ What are your initial observations with this dataset? What’s caught your atten
 -Some of the cells and header names are in a different language - we need to confirm if these columns are needed, and if so, we need to address them.<br/>
 -We have more data than we need, so some of these columns would need to be removed<br/>
 
+![image](https://github.com/aaronezra777/PortfolioProject/blob/main/Top_UK_Youtubers_2024/assets/images/tools.png)
+
 **Dashboard Overview**
 The Pizza Sales Report dashboards provide a user-friendly interface and offer the following views:
 
