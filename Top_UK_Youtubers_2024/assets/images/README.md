@@ -19,6 +19,7 @@ This will help the marketing team make informed decisions about which YouTubers 
 
 
 **Data exploration notes**<br/>
+
 This is the stage where you have a scan of what’s in the data, errors, inconcsistencies, bugs, weird and corrupted characters etc<br/>
 
 What are your initial observations with this dataset? What’s caught your attention so far?<br/>
