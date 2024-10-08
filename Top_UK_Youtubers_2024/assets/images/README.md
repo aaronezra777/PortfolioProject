@@ -53,6 +53,7 @@ This shows the Top UK Youtubers in 2024 so far.
 **DAX Measures**
 
 1. Total Subscribers (M)
+<br/>
 Total Subscribers (M) = 
 VAR million = 1000000
 VAR sumOfSubscribers = SUM(view_uk_youtubers_2024[total_subscribers])
@@ -61,6 +62,7 @@ VAR totalSubscribers = DIVIDE(sumOfSubscribers,million)
 RETURN totalSubscribers
 
 2. Total Views (B)
+<br/>
 Total Views (B) = 
 VAR billion = 1000000000
 VAR sumOfTotalViews = SUM(view_uk_youtubers_2024[total_views])
@@ -69,12 +71,14 @@ VAR totalViews = ROUND(sumOfTotalViews / billion, 2)
 RETURN totalViews
 
 3. Total Videos
+<br/>
 Total Videos = 
 VAR totalVideos = SUM(view_uk_youtubers_2024[total_videos])
 
 RETURN totalVideos
 
 4. Average Views Per Video (M)
+<br/>
 Average Views per Video (M) = 
 VAR sumOfTotalViews = SUM(view_uk_youtubers_2024[total_views])
 VAR sumOfTotalVideos = SUM(view_uk_youtubers_2024[total_videos])
@@ -84,6 +88,7 @@ VAR finalAvgViewsPerVideo = DIVIDE(avgViewsPerVideo, 1000000, BLANK())
 RETURN finalAvgViewsPerVideo 
 
 5. Subscriber Engagement Rate
+<br/>
 Subscriber Engagement Rate = 
 VAR sumOfTotalSubscribers = SUM(view_uk_youtubers_2024[total_subscribers])
 VAR sumOfTotalVideos = SUM(view_uk_youtubers_2024[total_videos])
@@ -92,9 +97,10 @@ VAR subscriberEngRate = DIVIDE(sumOfTotalSubscribers, sumOfTotalVideos, BLANK())
 RETURN subscriberEngRate 
 
 6. Views per subscriber
+<br/>
 Views Per Subscriber = 
 VAR sumOfTotalViews = SUM(view_uk_youtubers_2024[total_views])
 VAR sumOfTotalSubscribers = SUM(view_uk_youtubers_2024[total_subscribers])
 VAR viewsPerSubscriber = DIVIDE(sumOfTotalViews, sumOfTotalSubscribers, BLANK())
 
-RETURN viewsPerSubscriber 
+RETURN viewsPerSubscriber
