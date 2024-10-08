@@ -13,16 +13,9 @@ To create a dashboard that provides insights into the top UK YouTubers in 2024 t
 This will help the marketing team make informed decisions about which YouTubers to collaborate with for their marketing campaigns.
 
 **Tools**
+
 ![image](https://github.com/aaronezra777/PortfolioProject/blob/main/Top_UK_Youtubers_2024/assets/images/tools.png)
-What data is needed to achieve our objective?
-We need data on the top UK YouTubers in 2024 that includes their
 
-channel names
-total subscribers
-total views
-total videos uploaded
-
-Where is the data coming from? The data is sourced from Kaggle (an Excel extract), see here to find it.
 
 **Data Analysis with SQL**
 The SQL analysis involved the extraction and transformation of the data, which includes details of pizza sales, pizza category, size, and featuring various KPI's. The SQL analytics include:
