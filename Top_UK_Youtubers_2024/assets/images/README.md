@@ -44,7 +44,7 @@ What steps are needed to clean and shape the data into the desired format?<br/>
 
 **Dashboard Overview**<br/>
 The cleaned and transformed data are loaded into Power BI and the following virtually engaging and interactive dashboard are created.
-
-![image](https://github.com/aaronezra777/PortfolioProject/assets/167322419/f8c9c956-f23a-4b66-9382-d735f8c93524)
+<br/>
+![image](https://github.com/aaronezra777/PortfolioProject/blob/main/Top_UK_Youtubers_2024/assets/images/PowerBIDB_UK_Utubers.png)
 
 
