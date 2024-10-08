@@ -23,6 +23,7 @@ This will help the marketing team make informed decisions about which YouTubers 
 This is the stage where you have a scan of what’s in the data, errors, inconcsistencies, bugs, weird and corrupted characters etc<br/>
 
 What are your initial observations with this dataset? What’s caught your attention so far?<br/>
+
 -There are at least 4 columns that contain the data we need for this analysis, which signals we have everything we need from the file without needing to contact the client for any more data.<br/>
 -The first column contains the channel ID with what appears to be channel IDS, which are separated by a @ symbol - we need to extract the channel names from this.<br/>
 -Some of the cells and header names are in a different language - we need to confirm if these columns are needed, and if so, we need to address them.<br/>
