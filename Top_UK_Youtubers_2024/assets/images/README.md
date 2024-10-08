@@ -31,6 +31,14 @@ What are your initial observations with this dataset? What’s caught your atten
 
 ![image](https://github.com/aaronezra777/PortfolioProject/blob/main/Top_UK_Youtubers_2024/assets/images/overalldata.JPG)
 
+**Data cleaning & transformation**<br/>
+<br/>
+What steps are needed to clean and shape the data into the desired format?<br/>
+<br/>
+1) Remove unnecessary columns by only selecting the ones you need<br/>
+2) Extract Youtube channel names from the first column<br/>
+3) Rename columns using aliases
+<br/>
 **Dashboard Overview**
 The Pizza Sales Report dashboards provide a user-friendly interface and offer the following views:
 
