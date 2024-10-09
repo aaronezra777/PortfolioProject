@@ -67,6 +67,3 @@ FROM [SQL tutorial].[dbo].[PizzaSales]
 GROUP BY pizza_name
 Order by Revenue
 
-
-
-SUM(quantity) as QuantitySold, sum(order_id) as TotalOrders
