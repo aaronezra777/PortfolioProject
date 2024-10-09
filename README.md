@@ -20,7 +20,8 @@ I am confident that my data analytics skills and experience make me an ideal can
     - [HR Analytics Dashboard](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#covid-19-data-exploration)
     - [Pizza Sales Report](https://github.com/aaronezra777/PortfolioProject?tab=readme-ov-file#pizza-sales-report)
   - Top UK Youtubers 2024 Analysis
-    - [Top UK Youtubers 2024 Analysis](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#covid-19-data-exploration)
+    - [Top UK Youtubers 2024 Analysis](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#top-uk-youtubers-2024-analysis)
+    - 
 - [Contact](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#contacts)
 
 ## Portfolio Projects
