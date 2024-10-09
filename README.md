@@ -32,7 +32,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** The dataset contains a list of marathon athletes details. This project includes the following steps: data loading, data cleaning and exploratory data analysis (EDA).
 
-**Skills:** data cleaning, data analysis, cata cleaning, data visualization.
+**Skills:** data cleaning, data analysis, data cleaning, data visualization.
 
 **Technology:** Python, Pandas, Seaborn, Matplotlib.
 
@@ -77,17 +77,14 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Power BI
 
 ### Top UK Youtubers 2024 Analysis
-**Code:** [Pizza Sales Report](https://github.com/aaronezra777/PortfolioProject/tree/main/Pizza%20Sales%20Report_Power%20BI_SQL)
+**Code:** [Top UK Youtubers 2024 Analysis](https://github.com/aaronezra777/PortfolioProject/tree/main/Top_UK_Youtubers_2024/assets/images#readme)
 
-**Description:** The dataset includes information about pizza sales for a pizzeria. The Pizza Sales Report and Dashboard is aimed at creating a comprehensive solution for a pizzeria to track and analyze its sales, customer behavior and performance. This project involves the use of SQL for data management, data analysis and draw valuable insights and Power BI for creating interactive dashboards that provide valuable insights to support decision making for business growth.
+**Description:** The Head of Marketing wants to find out who the top YouTubers are in 2024 to decide on which YouTubers would be best to run marketing campaigns throughout the rest of the year. The aim is to create a dashboard that provides insights into the top UK YouTubers in 2024 that includes their subscriber count, total views, total videos, engagement metrics. This will help the marketing team make informed decisions about which YouTubers to collaborate with for their marketing campaigns.
 
-**Skills:** Data Modelling, Data cleaning & transformation using Power Query, Data Visualization
+**Skills:** SQL query, Creating Views, Aggregate Functions, Data cleaning, Data Visualizations
 
-**Technology:** Power BI
+**Technology:** Power BI, Microsoft SQL Server
 
-**Skills:** Data Modelling, Data cleaning using Power Query, Data Visualization
-
-**Technology:** Power BI
 
 ## Contacts
 - LinkedIn: [@aaronezra](https://www.linkedin.com/in/aaron-ezra-richard-932ab2135/)
