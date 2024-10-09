@@ -21,7 +21,7 @@ I am confident that my data analytics skills and experience make me an ideal can
     - [Pizza Sales Report](https://github.com/aaronezra777/PortfolioProject?tab=readme-ov-file#pizza-sales-report)
   - Top UK Youtubers 2024 Analysis
     - [Top UK Youtubers 2024 Analysis](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#top-uk-youtubers-2024-analysis)
-    - 
+  
 - [Contact](https://github.com/aaronezra777/PortfolioProject/tree/main?tab=readme-ov-file#contacts)
 
 ## Portfolio Projects
@@ -84,7 +84,6 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** SQL query, Creating Views, Aggregate Functions, Data cleaning, Data Visualizations
 
 **Technology:** Power BI, Microsoft SQL Server
-
 
 ## Contacts
 - LinkedIn: [@aaronezra](https://www.linkedin.com/in/aaron-ezra-richard-932ab2135/)
