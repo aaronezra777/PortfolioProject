@@ -72,7 +72,20 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** The dataset includes information about employees in the company. It contains various attributes such as the employee's age, gender, job role, education, department, and marital status. Other information in the dataset includes the employee's daily rate, monthly income, training history, work experience, job satisfaction, and performance ratings. Additionally, the dataset includes a column for attrition, which indicates whether an employee has left the company or is still employed.
 
-**Skills:** Data Modelling, Data cleaning usng Power Query, Data Visualization
+**Skills:** Data Modelling, Data cleaning using Power Query, Data Visualization
+
+**Technology:** Power BI
+
+### Pizza Sales Analysis
+**Code:** [Pizza Sales Analysis](https://github.com/aaronezra777/PortfolioProject/tree/main/Pizza%20Sales%20Report_Power%20BI_SQL#readme)
+
+**Description:** This project involves a comprehensive analysis of pizza sales data using Microsoft SQL Server for data manipulation and Power BI for data visualization.
+
+The dataset contains information about pizzas, orders, and sales.
+
+The analysis covers various aspects, including identifying the best and worst selling pizzas, determining total revenue generated, calculating average revenue, and examining sales trends on various time scales.
+
+**Skills:** SQL Query, SQL Aggregations, Data Modelling, Data cleaning using Power Query, Data Visualization
 
 **Technology:** Power BI
 
