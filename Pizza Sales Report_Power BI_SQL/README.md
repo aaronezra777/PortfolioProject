@@ -24,11 +24,11 @@ Identifying the % of sales by pizza category and orders placed by the customers.
 **Dashboard Overview**<br/>
 The Pizza Sales Report dashboards provide a user-friendly interface and offer the following views:
 
-Trends: Daily and monthly sales trends.
-Pizza Category Analysis: Sales breakdown by pizza category.
-Pizza Size Analysis: Distribution of sales by pizza size.
-Top-Selling Pizzas: Identification of top-selling pizzas based on various metrics.
-Least-Selling Pizzas: Identification of least-selling pizzas based on various metrics.
+Trends: Daily and monthly sales trends.<br/>
+Pizza Category Analysis: Sales breakdown by pizza category.<br/>
+Pizza Size Analysis: Distribution of sales by pizza size.<br/>
+Top-Selling Pizzas: Identification of top-selling pizzas based on various metrics.<br/>
+Least-Selling Pizzas: Identification of least-selling pizzas based on various metrics.<br/>
 
 ![image](https://github.com/aaronezra777/PortfolioProject/assets/167322419/f8c9c956-f23a-4b66-9382-d735f8c93524)
 
