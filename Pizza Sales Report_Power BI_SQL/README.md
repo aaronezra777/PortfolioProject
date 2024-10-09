@@ -32,3 +32,9 @@ Least-Selling Pizzas: Identification of least-selling pizzas based on various me
 
 ![image](https://github.com/aaronezra777/PortfolioProject/assets/167322419/f8c9c956-f23a-4b66-9382-d735f8c93524)
 
+**Insights derived from the data**<br/>
+
+- Orders are highest on Fridays and Saturdays
+- Orders are highest on January and July
+- Classic category contributes to the highest percentage of sales.
+- Large pizza is the most popular size.
