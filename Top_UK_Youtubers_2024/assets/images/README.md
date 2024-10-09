@@ -52,6 +52,8 @@ Column count check<br/>
 Data type check<br/>
 Duplicate count check<br/>
 
+![image](https://github.com/aaronezra777/PortfolioProject/blob/main/Top_UK_Youtubers_2024/assets/images/dataqualitycheck.JPG))
+<br/>
 
 **Dashboard Overview**<br/>
 
