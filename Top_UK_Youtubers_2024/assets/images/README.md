@@ -43,6 +43,16 @@ Below are the SQL code used for this data cleaning & transformation<br/>
 
 ![image](https://github.com/aaronezra777/PortfolioProject/blob/main/Top_UK_Youtubers_2024/assets/images/datacleaningsql.JPG)
 
+**Data Quality check**<br/>
+
+Here are the data quality tests conducted:<br/>
+
+Row count check<br/>
+Column count check<br/>
+Data type check<br/>
+Duplicate count check<br/>
+
+
 **Dashboard Overview**<br/>
 
 The cleaned and transformed data are loaded into Power BI and the following virtually engaging and interactive dashboard are created.
