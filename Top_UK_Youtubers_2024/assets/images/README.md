@@ -65,55 +65,14 @@ This shows the Top UK Youtubers in 2024 so far.
 
 **DAX Measures**
 
-1. Total Subscribers (M)
+![image](https://github.com/aaronezra777/PortfolioProject/blob/main/Top_UK_Youtubers_2024/assets/images/DAXcalculations.JPG)
+
+**Recommendations**<br/>
+
+What are the recommendations based on the insights gathered?<br/>
 <br/>
-Total Subscribers (M) = 
-VAR million = 1000000
-VAR sumOfSubscribers = SUM(view_uk_youtubers_2024[total_subscribers])
-VAR totalSubscribers = DIVIDE(sumOfSubscribers,million)
+1) NoCopyrightSOunds, Dan Rhodes and DanTDM are the channnels with the most subscribers in the UK.<br/>
+2) DanTDM, Dan Rhodes and Mister Max are the channels with the most views.<br/>
+3) Based on this analysis, the top channels to form collaborations with are NoCopyrightSounds, DanTDM and Dan Rhodes.<br/>
 
-RETURN totalSubscribers
 
-2. Total Views (B)
-<br/>
-Total Views (B) = 
-VAR billion = 1000000000
-VAR sumOfTotalViews = SUM(view_uk_youtubers_2024[total_views])
-VAR totalViews = ROUND(sumOfTotalViews / billion, 2)
-
-RETURN totalViews
-
-3. Total Videos
-<br/>
-Total Videos = 
-VAR totalVideos = SUM(view_uk_youtubers_2024[total_videos])
-
-RETURN totalVideos
-
-4. Average Views Per Video (M)
-<br/>
-Average Views per Video (M) = 
-VAR sumOfTotalViews = SUM(view_uk_youtubers_2024[total_views])
-VAR sumOfTotalVideos = SUM(view_uk_youtubers_2024[total_videos])
-VAR  avgViewsPerVideo = DIVIDE(sumOfTotalViews,sumOfTotalVideos, BLANK())
-VAR finalAvgViewsPerVideo = DIVIDE(avgViewsPerVideo, 1000000, BLANK())
-
-RETURN finalAvgViewsPerVideo 
-
-5. Subscriber Engagement Rate
-<br/>
-Subscriber Engagement Rate = 
-VAR sumOfTotalSubscribers = SUM(view_uk_youtubers_2024[total_subscribers])
-VAR sumOfTotalVideos = SUM(view_uk_youtubers_2024[total_videos])
-VAR subscriberEngRate = DIVIDE(sumOfTotalSubscribers, sumOfTotalVideos, BLANK())
-
-RETURN subscriberEngRate 
-
-6. Views per subscriber
-<br/>
-Views Per Subscriber = 
-VAR sumOfTotalViews = SUM(view_uk_youtubers_2024[total_views])
-VAR sumOfTotalSubscribers = SUM(view_uk_youtubers_2024[total_subscribers])
-VAR viewsPerSubscriber = DIVIDE(sumOfTotalViews, sumOfTotalSubscribers, BLANK())
-
-RETURN viewsPerSubscriber
