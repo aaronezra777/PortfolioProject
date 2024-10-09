@@ -39,8 +39,8 @@ What steps are needed to clean and shape the data into the desired format?<br/>
 2) Extract Youtube channel names from the first column<br/>
 3) Rename columns using aliases
 <br/>
-Below are the SQL code used for this data cleaning & transformation
-<br/>
+Below are the SQL code used for this data cleaning & transformation<br/>
+
 ![image](https://github.com/aaronezra777/PortfolioProject/blob/main/Top_UK_Youtubers_2024/assets/images/datacleaningsql.JPG)
 
 **Dashboard Overview**<br/>
