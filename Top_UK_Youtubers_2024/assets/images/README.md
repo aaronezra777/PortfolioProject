@@ -20,14 +20,14 @@ This will help the marketing team make informed decisions about which YouTubers 
 
 **Data exploration notes**<br/>
 
-This is the stage where you have a scan of what’s in the data, errors, inconcsistencies, bugs, weird and corrupted characters etc<br/>
+This is the stage where I scan of the data for any errors, inconsistencies, bugs, and corrupted characters etc<br/>
 
-What are your initial observations with this dataset? What’s caught your attention so far?<br/>
+Based on the initial observations with this dataset: <br/>
 
--There are at least 4 columns that contain the data we need for this analysis, which signals we have everything we need from the file without needing to contact the client for any more data.<br/>
--The first column contains the channel ID with what appears to be channel IDS, which are separated by a @ symbol - we need to extract the channel names from this.<br/>
--Some of the cells and header names are in a different language - we need to confirm if these columns are needed, and if so, we need to address them.<br/>
--We have more data than we need, so some of these columns would need to be removed<br/>
+-There are at least 4 columns that contain the data that are needed for this analysis, which signals I have everything I need from the file without needing to contact the client for any more data.<br/>
+-The first column contains the channel ID with what appears to be channel IDS, which are separated by a @ symbol -I need to extract the channel names from this.<br/>
+-Some of the cells and header names are in a different language -I need to confirm if these columns are needed, and if so, need to address them.<br/>
+-I have more data than I need, so some of these columns would need to be removed<br/>
 
 ![image](https://github.com/aaronezra777/PortfolioProject/blob/main/Top_UK_Youtubers_2024/assets/images/overalldata.JPG)
 
