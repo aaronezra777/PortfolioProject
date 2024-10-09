@@ -19,7 +19,7 @@ Identifying the top-selling pizzas based on revenue, quantity, and total orders.
 Identify the least-selling pizzas based on revenue, quantity, and total orders.
 Identifying the % of sales by pizza category and orders placed by the customers.
 
-**Code:** [Python_Programming/python_marathondata.ipynb](https://github.com/aaronezra777/PortfolioProject/blob/main/Python_Programming/python_marathondata.ipynb)
+**Code:** [SQL Query Pizza Sales](https://github.com/aaronezra777/PortfolioProject/blob/main/Pizza%20Sales%20Report_Power%20BI_SQL/SQLQuery1pizzasales.sql)
 
 **Dashboard Overview**
 The Pizza Sales Report dashboards provide a user-friendly interface and offer the following views:
