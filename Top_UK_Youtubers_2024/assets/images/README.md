@@ -73,6 +73,6 @@ What are the recommendations based on the insights gathered?<br/>
 <br/>
 1) NoCopyrightSOunds, Dan Rhodes and DanTDM are the channnels with the most subscribers in the UK.<br/>
 2) DanTDM, Dan Rhodes and Mister Max are the channels with the most views.<br/>
-3) Based on this analysis, the top channels to form collaborations with are NoCopyrightSounds, DanTDM and Dan Rhodes.<br/>
+3) Based on this analysis, the top channels to form collaborations with are NoCopyrightSounds, DanTDM, Dan Rhodes and Mister Max.<br/>
 
 
